@@ -60,5 +60,5 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yannfama&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&stroke=1B57DD&background=76767667&border=DDA81B&ring=891233EA&fire=DD2727&currStreakNum=19DD1A&sideNums=DD2727&currStreakLabel=5D6216A9&sideLabels=21662C&dates=4E4E4E)](https://git.io/streak-stats)
    
    ### :writing_hand: Blog Posts :
-   <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
